@@ -2,7 +2,7 @@
 
 This project demonstrates the process of creating and hosting a static website using an Amazon S3 bucket. By following the steps outlined in this guide, you can quickly deploy a simple static website on Amazon Web Services (AWS).
 
-##Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
