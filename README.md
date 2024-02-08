@@ -84,3 +84,4 @@ Feel free to customize the website content, style, and structure according to yo
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Please follow the existing coding style and guidelines.
 
 ## OUTPUT 
+![alt text](image.png)
